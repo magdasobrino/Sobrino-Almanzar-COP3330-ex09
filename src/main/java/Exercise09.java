@@ -27,7 +27,7 @@ public class Exercise09 {
 
             System.out.println("You will need to purchase " + (int) Math.ceil(gallons) + " gallons of paint to cover " + squareFeet + " square feet.");
 
-            scnr.close();
+            
             System.exit(0);
         }//end of main
     }//end of program
